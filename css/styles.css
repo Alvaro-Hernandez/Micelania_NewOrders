@@ -1,0 +1,141 @@
+.contenedor{
+    width: 40%;
+    margin: 0 auto;
+background: #00bf8f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00720f, #00bf8f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #04641c, #00bf8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+
+}
+
+#contenedor2{
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+#productos{
+    background: rgba(4, 12, 85, 0.61);
+    border: none;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    height: 3rem;
+
+}
+
+
+#PrecioSelect{
+    text-align: center;
+    display:inline-table;
+    width: 50px;
+    height: 15px;
+    border: none;
+    border-bottom: 2px solid;
+    margin: 0;
+    margin-top: 15px;
+}
+
+#Precio{
+    margin: 0;
+    margin-left: 25px;
+    display:inline-flex;
+}
+
+#nuevoprecio{
+    margin-right: 0;
+    margin-top: 15px;
+    width: 50px;
+    border:none;
+    border-bottom: 2px solid;
+}
+
+#cambiar{
+    margin-top: 15px;
+    width: 82px;
+    background: rgba(4, 12, 85, 0.61);
+    border: none;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    width: 6rem;
+    height: 3rem;
+}
+
+#elbo_ton{
+    margin-top: 10px;
+    margin-left: 37%;
+    width: 6rem;
+    height: 3rem;
+    background: rgba(4, 12, 85, 0.61);
+    border: none;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#agregar{
+    width: 80px;
+    background: rgba(4, 12, 85, 0.61);
+    border: none;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    width: 6rem;
+    height: 3rem;
+}
+
+#Pago{
+    margin-right: 0;
+    margin-top: 15px;
+    width: 50px;
+    border:none;
+    border-bottom: 2px solid;
+}
+
+#Pagar{
+    background: rgba(4, 12, 85, 0.61);
+    border: none;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    width: 6rem;
+    height: 3rem;
+}
+
+#Vuelto{
+    text-align: center;
+    margin-left: 155px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 2px solid;
+    width: 50px;
+    height: 15px;
+}
+
+#vuelto{
+    margin: 0;
+    margin-left: 160px;
+    
+}
+*{
+    font-family:monospace;
+    font-size: 1.1rem;
+}
+
+.number{
+    
+    height: 1.5rem;
+}
+.mover{
+    margin-left: 100px;
+}
+.h3{
+    transform: scaleY(200px);
+}
+
+.mover{
+    padding-bottom: 6rem;
+}
+.bto{
+    padding-bottom: 2rem;
+}
